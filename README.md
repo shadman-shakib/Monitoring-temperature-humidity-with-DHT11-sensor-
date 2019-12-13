@@ -1,3 +1,3 @@
 # Monitoring temperature humidity with DHT11 sensor
 Monitoring temperature/humidity with  DHT11 sensor. And displaying it in LCD monitor. LCD monitor also can show the time.
-Also given source code of ##CODEVISION & ###Proteus simulation.
+Also given source code of CODEVISION & Proteus simulation.
